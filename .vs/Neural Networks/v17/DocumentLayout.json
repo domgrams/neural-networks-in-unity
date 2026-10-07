@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\domgrams\\ai\\Neural Networks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\cnn\\convolutionalneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\cnn\\convolutionalneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|c:\\domgrams\\ai\\neural networks\\assets\\helping scripts\\linkeditem.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\helping scripts\\linkeditem.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\basic neural network\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\basic neural network\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|c:\\domgrams\\ai\\neural networks\\assets\\basic neural network\\colorai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\basic neural network\\colorai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\visualisations\\coloraipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\visualisations\\coloraipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\visualisations\\visualizecolorai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\visualisations\\visualizecolorai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\coloraitestingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\coloraitestingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|C:\\domgrams\\ai\\Neural Networks\\assets\\coloraitrainingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6465714-B529-ECA8-6263-A003CBB400E5}|Assembly-CSharp.csproj|solutionrelative:assets\\coloraitrainingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorAI.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Basic Neural Network\\ColorAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Basic Neural Network\\ColorAI.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Basic Neural Network\\ColorAI.cs",
+              "RelativeToolTip": "Assets\\Basic Neural Network\\ColorAI.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAkwIoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-25T08:44:47.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedItem.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Helping Scripts\\LinkedItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Helping Scripts\\LinkedItem.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Helping Scripts\\LinkedItem.cs",
+              "RelativeToolTip": "Assets\\Helping Scripts\\LinkedItem.cs",
+              "ViewState": "AgIAALcBAAAAAAAAAAAAAMABAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:59:58.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorAIPanel.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Visualisations\\ColorAIPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Visualisations\\ColorAIPanel.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Visualisations\\ColorAIPanel.cs",
+              "RelativeToolTip": "Assets\\Visualisations\\ColorAIPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-09-04T19:59:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvolutionalNeuralNetwork.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\CNN\\ConvolutionalNeuralNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\CNN\\ConvolutionalNeuralNetwork.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\CNN\\ConvolutionalNeuralNetwork.cs",
+              "RelativeToolTip": "Assets\\CNN\\ConvolutionalNeuralNetwork.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAAAtwCsCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T14:08:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisualizeColorAI.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Visualisations\\VisualizeColorAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Visualisations\\VisualizeColorAI.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Visualisations\\VisualizeColorAI.cs",
+              "RelativeToolTip": "Assets\\Visualisations\\VisualizeColorAI.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwFQAAABGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-06-26T15:31:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorAITestingPanel.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\ColorAITestingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\ColorAITestingPanel.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\ColorAITestingPanel.cs",
+              "RelativeToolTip": "Assets\\ColorAITestingPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-09-09T16:42:11.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Basic Neural Network\\Neuron.cs",
+              "RelativeDocumentMoniker": "Assets\\Basic Neural Network\\Neuron.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Basic Neural Network\\Neuron.cs",
+              "RelativeToolTip": "Assets\\Basic Neural Network\\Neuron.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAqwAUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T16:06:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Logger.cs",
+              "RelativeDocumentMoniker": "Assets\\Logger.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\Logger.cs",
+              "RelativeToolTip": "Assets\\Logger.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBIAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-12-06T20:17:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorAITrainingPanel.cs",
+              "DocumentMoniker": "C:\\domgrams\\ai\\Neural Networks\\Assets\\ColorAITrainingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\ColorAITrainingPanel.cs",
+              "ToolTip": "C:\\domgrams\\ai\\Neural Networks\\Assets\\ColorAITrainingPanel.cs",
+              "RelativeToolTip": "Assets\\ColorAITrainingPanel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vyEAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-09-15T17:37:03.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
